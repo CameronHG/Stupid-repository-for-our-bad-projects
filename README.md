@@ -12,9 +12,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 This is our place where we post our bad projects and share for all to groan!
 
 The Following are some of our projects
-Dumn screw up the Translate Thingy 
-**[REDACTED]**
-**[REDACTED]**
+- Dumb screw up the Translate Thingy 
+  ![file:///C:/Users/csmi2201/Downloads/Translation%20Project%20APK%20File.png]
+- **[REDACTED]**
+- **[REDACTED]**
 
 1. Numbered
 2. List
