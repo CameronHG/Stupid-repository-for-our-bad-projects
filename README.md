@@ -13,7 +13,7 @@ This is our place where we post our bad projects and share for all to groan!
 
 The Following are some of our projects
 - Dumb screw up the Translate Thingy 
-  ![file:///C:/Users/csmi2201/Downloads/Translation%20Project%20APK%20File.png]
+  ![Image](file:///C:/Users/csmi2201/Downloads/Translation%20Project%20APK%20File.png)
 - **[REDACTED]**
 - **[REDACTED]**
 
