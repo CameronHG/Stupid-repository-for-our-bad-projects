@@ -1,4 +1,3 @@
-# This is our project
-## it was fun
+# This is were we deposit our Hillariously bad projects for all to groan about
 
-![pic](file:///C:/Users/csmi2201/Downloads/Translation%20Project%20APK%20File.png)
+<img src="file:///C:/Users/csmi2201/Downloads/qrcode.png">
